@@ -1,1 +1,10 @@
 
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: catalog-test
+  description: A collection of all Backstage example Groups Davi
+spec:
+  type: github
+  targets:
+    - https://github.com/davimarcel/backstage/blob/main/catalog-info.yaml
