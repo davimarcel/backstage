@@ -7,4 +7,4 @@ metadata:
 spec:
   type: github
   targets:
-    - https://github.com/davimarcel/backstage/blob/main/catalog-info.yaml
+    - https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/acme/org.yaml
