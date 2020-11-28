@@ -6,4 +6,4 @@ metadata:
 spec:
   type: github
   targets:
-    - https://github.com/davimarcel/react/edit/master/catalog-info.yaml
+    - https://github.com/davimarcel/backstage/blob/main/catalog-info.yaml
